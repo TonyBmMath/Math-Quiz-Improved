@@ -11,8 +11,7 @@ A fast-paced math quiz built with Scratch and PenguinMod. Players solve random a
 - Difficulty levels: Easy, Medium, Hard
 - Timer countdown and score tracking
 - Longest streak and performance summary
-- Custom alert extension (PenguinMod)
-
+- 
 ## 🛠️ How to Play
 
 1. Choose a difficulty level.
